@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "aactools"
+  site-url: "https://franfram.github.io/aactools"
+  description: "Tools for building Augmentative and Alternative Communication systems"
+  repo-branch: main
+  repo-url: "https://github.com/franfram/aactools"
